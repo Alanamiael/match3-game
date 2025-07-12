@@ -9,11 +9,11 @@ const CONFIG = {
   counterAnimationDuration: 200,
   fallSpeed: 300,
   imagePaths: [
-    "/images/blue-bird.avif",
-    "/images/green-clover.avif",
-    "/images/purple-flower.png",
-    "/images/red-heart.avif",
-    "/images/yellow-star.jpg",
+    "./images/blue-bird.avif",
+    "./images/green-clover.avif",
+    "./images/purple-flower.png",
+    "./images/red-heart.avif",
+    "./images/yellow-star.jpg",
   ],
 };
 
